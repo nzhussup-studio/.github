@@ -22,7 +22,7 @@ This organization contains the repositories that together power the public websi
 ## Repository Map
 
 ### 🌐 [`web-portfolio`](https://github.com/nzhussup-studio/web-portfolio)
-Public-facing portfolio website for `nzhussup.com`.
+Public-facing portfolio website for `nzhussup.dev`.
 
 ### 🛠️ [`web-admin-panel`](https://github.com/nzhussup-studio/web-admin-panel)
 Internal administration interface for managing structured content, users, albums, and CV-related information.
