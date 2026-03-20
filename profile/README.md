@@ -2,7 +2,7 @@
 
 # nzhussup-studio
 
-### Building the platform behind `nzhussup.com`
+### Building the platform behind `nzhussup.dev`
 
 <p>
   <img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" />
@@ -22,24 +22,28 @@ This organization contains the repositories that together power the public websi
 ## Repository Map
 
 ### 🌐 [`web-portfolio`](https://github.com/nzhussup-studio/web-portfolio)
-Public-facing portfolio website for `nzhussup.com`.
+
+Public-facing portfolio website for `nzhussup.dev`.
 
 ### 🛠️ [`web-admin-panel`](https://github.com/nzhussup-studio/web-admin-panel)
+
 Internal administration interface for managing structured content, users, albums, and CV-related information.
 
 ### ⚙️ [`backend-services`](https://github.com/nzhussup-studio/backend-services)
+
 Backend services for authentication, content APIs, media handling, administrative workflows, and LLM-backed capabilities.
 
 ### ☸️ [`platform-infra`](https://github.com/nzhussup-studio/platform-infra)
+
 Infrastructure definitions for Kubernetes deployment, ingress routing, TLS, persistence, and operational setup.
 
 ## Platform Shape
 
-| Area | Role |
-| --- | --- |
-| 🎨 Frontend | Public presentation and internal admin workflows |
-| 🔐 Backend | Authentication, data APIs, media, and platform logic |
-| 🚀 Delivery | CI/CD pipelines, container builds, and rollout automation |
+| Area              | Role                                                       |
+| ----------------- | ---------------------------------------------------------- |
+| 🎨 Frontend       | Public presentation and internal admin workflows           |
+| 🔐 Backend        | Authentication, data APIs, media, and platform logic       |
+| 🚀 Delivery       | CI/CD pipelines, container builds, and rollout automation  |
 | 🧱 Infrastructure | Cluster manifests, ingress, TLS, and runtime configuration |
 
 ## Technology Areas
